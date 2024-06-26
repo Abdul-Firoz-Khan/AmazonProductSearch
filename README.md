@@ -1,4 +1,4 @@
-Here's a `README.md` file for your GitHub repository for the `AmazonProductSearch` project:
+##  `Amazon Product Search` project:
 
 ```markdown
 # Amazon Product Search
