@@ -46,12 +46,12 @@ To run this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/amazon-product-search.git
+   git clone https://github.com/Abdul-Firoz-Khan/AmazonProductSearch
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd amazon-product-search
+   cd AmazonProductSearch
    ```
 
 3. Build the project using Maven:
